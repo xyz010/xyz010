@@ -6,7 +6,7 @@
 - 🎓 I'm currently an MS student in CS, Machine Learning Track
 - 🤖 Can't stop being fascinated by Artificial Intelligence!
 - 🗺️ I want to contribute my own invention to the world and leave a mark...
-- 🔭 Apparently seeking Summer 2023 Internships.
+- 🔭 Apparently seeking January 2024 full-time SWE/ML roles.
 
 
 ## :email: Feel free to contact on:
