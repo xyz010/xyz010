@@ -3,10 +3,11 @@
 
 ### I'm an AI/ML developer | MS student @Columbia University
 
-- 🎓 I'm currently an MS student in CS, Machine Learning Track
+- I'm currently a Machine Learning Engineer at a Stealth Real Estate Startup in NYC
+- 🎓 Columbia University - MS student in CS, Machine Learning Track
 - 🤖 Can't stop being fascinated by Artificial Intelligence!
 - 🗺️ I want to contribute my own invention to the world and leave a mark...
-- 🔭 Apparently seeking January 2024 full-time SWE/ML roles.
+
 
 
 ## :email: Feel free to contact on:
