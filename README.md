@@ -3,7 +3,7 @@
 
 ### I'm an AI/ML developer @Stealth AI Startup | Ex-Columbia
 
-- I'm currently a Machine Learning Engineer at a Stealth Real Estate Startup in NYC
+- I'm currently a AI/ML Engineer at a Stealth Real Estate Startup in NYC
 - 🎓 Columbia University - MS student in CS, Machine Learning Track
 - 🤖 Can't stop being fascinated by Artificial Intelligence!
 - 🗺️ I want to contribute my invention to the world and leave a mark...
